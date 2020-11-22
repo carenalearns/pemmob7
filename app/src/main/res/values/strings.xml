@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Punakawan</string>
+    <string name="game_over">Kalah</string>
+    <string name="try_again">Coba Maneh</string>
+    <string name="android_trivia">Punakawan</string>
+    <string name="submit_button">Kirim</string>
+    <string name="congratulations">Menang</string>
+</resources>
